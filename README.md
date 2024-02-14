@@ -1,5 +1,5 @@
-# guess-game
-A simple GUESS THE COUNTRY game in Python
+# Guess the Country
+A simple guess the country game made in Python-PyGame. The user has to enter alphabet. Then the computer displays the alphabet if it is correct. If the alphabet is correct, the user does not lose a chance. Otherwise, the user loses a chance. A maximum of 8 chances are given per gameplay. For the sake of simplicity, only country names that do not have spaces in between were selected
 ## Splash Screen
 ![image](https://user-images.githubusercontent.com/79614977/162378853-e6b8949d-2cee-49fe-af9f-eafc27210c90.png)
 ## In Game Screenshot
